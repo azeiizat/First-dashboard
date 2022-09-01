@@ -1,5 +1,5 @@
 # First-dashboard
-This is my first attempt of dashboard using excel.
+This is my first attempt on dashboard using excel.
 
 # Dashboard Object
 The objective of the dashboard is to know the profit and sales by region,state and category.
